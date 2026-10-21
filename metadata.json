@@ -1,0 +1,6 @@
+{
+  "name": "Wira Bahasa",
+  "description": "Permainan platformer interaktif gaya retro ala Super Mario untuk menguasai tatabahasa, kosa kata, peribahasa dan ejaan Bahasa Melayu secara menyeronokkan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
